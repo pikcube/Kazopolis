@@ -30,7 +30,7 @@ Learning when to drunk duplicates and when to leave them sober is one of the har
 
 In general, I usually avoid drunking the evil team if I can avoid it. There are some roles where it is necessary (mez) but drunking a minion is ultimately far more damaging than drunking a townsfolk. As a ST, you may wish to consider using an optional rule to let the evil team in particular repick instead of making them drunk.
 
-Outsiders are very fun on Kazopolis, as many of them get much wore when duplicates are introduced. Having 4 Zealots will give the evil team a lot of voting power. Having 4 Recluses will shread the evil team's information. I generally recommend using an "All or Nothing" approach with drunking outsiders, either leaving all of them sober or drunking all the copies.
+Outsiders are very fun on Kazopolis, as many of them get much worse when duplicates are introduced. Having 4 Zealots will give the evil team a lot of voting power. Having 4 Recluses will shread the good team's information. I generally recommend using an "All or Nothing" approach with drunking outsiders, either leaving all of them sober or drunking all the copies.
 
 When deciding whether or not to drunk a townsfolk, the main question to consider is "will evil be able to play around them being sober?". Some roles are way to strong when they are all sober, such as the Virgin or Courtier, and drunking all of them (or all but 1) is frequently the way to go. Some roles are perfectly fine to leave everyone sober, I don't usually drunk duplicate Stewards or Washerwomen unless I think it's going to close evils play space too much.
 
