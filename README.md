@@ -84,6 +84,12 @@ This requires putting an extra demon in the bag, or putting the Lunatic token in
 
 As a storyteller, you may need to swap a minion and demon to make marionette work, but otherwise its identical to running the Drunk.
 
+### King: Players may not choose to be the King. After characters are picked, if any players picked Choir Boy, exactly one Choir Boy will become the King.
+
+Multiple Kings is a really nasty problem for the evil team. If there are 3 Kings, the evil team has to spend 3 nights killing the Kings to eliminate them, and only after they are sure there are no Choir Boys in play. Drunking the Kings is even worse because then the demon won't learn who the King is, but the Choir Boy will still be told if the demon kills them.
+
+The solution? Nobody chooses the King. If there are any Choir Boys in play, turn one of them into the King. If there is only 1 Choir Boy, you end up with a King and no Choir boys. If there's more than 1, you get 1 King and multiple Choir Boys (some of which might be drunk).
+
 # Optional Gardening Rules
 
 Kazopolis is written to make setup as fast and seamless as possible, but this does require an arbitrary outsider count and eliminates certain characters that complicate setup. These optional gardening rules are an option for groups that are okay with slowing down setup for a particular benefit. These rules can be ran simotaniously if desired.
