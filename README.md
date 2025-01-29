@@ -16,7 +16,7 @@ Evil players normally try to bluff out of play roles, but bluffing in play roles
 
 The way to run Kazopolis is very simple. Pass out a bag of tokens with any number of outsiders (I'd personally stick to the base amount plus or minus 1). During the first night, wake each player (before doing any other night interactions) and let them point to any character on script. They are that character now, swap it out in the grimoire.
 
-After everyone is picked, look at the grimoire. If you are happy with the state of the game, you can run it as is. Otherwise, you are free to drunk any player who selected the same token as another in play character. This drunkenness is static and does not change over the course of the game.
+After everyone has picked, look at the grimoire. If you are happy with the state of the game, you can run it as is. Otherwise, you are free to drunk any player who selected the same token as another in play character. This drunkenness is static and does not change over the course of the game.
 
 ## The Nitty Gritty
 
