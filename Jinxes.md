@@ -52,11 +52,11 @@ This requires putting an extra demon in the bag, or putting the Lunatic token in
 
 As a storyteller, you may need to swap a minion and demon to make marionette work, but otherwise its identical to running the Drunk.
 
-## King: Players may not choose to be the King. After characters are picked, if any players picked Choir Boy, exactly one Choir Boy will become the King.
+## King: Players may not choose to be the King. After characters are picked, if any players picked Choirboy, exactly one Choirboy will become the King.
 
-Multiple Kings is a really nasty problem for the evil team. If there are 3 Kings, the evil team has to spend 3 nights killing the Kings to eliminate them, and only after they are sure there are no Choir Boys in play. Drunking the Kings is even worse because then the demon won't learn who the King is, but the Choir Boy will still be told if the demon kills them.
+Multiple Kings is a really nasty problem for the evil team. If there are 3 Kings, the evil team has to spend 3 nights killing the Kings to eliminate them, and only after they are sure there are no Choirboys in play. Drunking the Kings is even worse because then the demon won't learn who the King is, but the Choirboy will still be told if the demon kills them.
 
-This was a hard one to solve, because ideally I want the evil team and the King to never be sure if there is a Choir Boy in play. I also want to ensure there is only at most 1 King. This solution achieves this, and in a pretty elegant way. If only one player picked Choir Boy, there is a King without a Choir Boy. If multiple players picked Choir Boy, then there is a King with a Choir Boy (some of which might be drunk if there are more than 2).
+This was a hard one to solve, because ideally I want the evil team and the King to never be sure if there is a Choirboy in play. I also want to ensure there is only at most 1 King. This solution achieves this, and in a pretty elegant way. If only one player picked Choirboy, there is a King without a Choirboy. If multiple players picked Choirboy, then there is a King with a Choirboy (some of which might be drunk if there are more than 2).
 
 I don't love that in a format all about picking the game you want to play, there's this one character which you can only be by picking a different character and hoping that you are chosen to be "upgraded", but without rewriting both abilities there's not an option that doesn't involve making players occasionally repick. With this rule, at least the only people who are affected by this "Kingification" are players who opt in to it. Anyone not okay with being one of the two roles are free to pick something else.
 

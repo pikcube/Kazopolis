@@ -1,5 +1,7 @@
 # Kazopolis: A New Way to Play Blood on the Clocktower
 
+### "This makes Fish Bucket playable" - Play Tester
+
 Kazopolis is a custom project that has been in development for a few months at this point, and is a collaboration between me, my partner, and our local clocktower group to answer a question nobody asked, "what if everyone just picked their role?".
 
 The end result is this, what was originally a fable but at this point could be described as a different format entirely with how you rethink your strategy.
@@ -12,7 +14,7 @@ Evil players normally try to bluff out of play roles, but bluffing in play roles
 
 ## How To Run a Game of Kazopolis
 
-The way to run Kazopolis is very simple. Pass out a bag of tokens with any number of outsiders (I'd personally stick to plus or minus the base amount). During the first night, wake each character (before doing any other night interactions) and let them point to any character on script. They are that character now, swap it out in the grimoire.
+The way to run Kazopolis is very simple. Pass out a bag of tokens with any number of outsiders (I'd personally stick to the base amount plus or minus 1). During the first night, wake each player (before doing any other night interactions) and let them point to any character on script. They are that character now, swap it out in the grimoire.
 
 After everyone is picked, look at the grimoire. If you are happy with the state of the game, you can run it as is. Otherwise, you are free to drunk any player who selected the same token as another in play character. This drunkenness is static and does not change over the course of the game.
 
@@ -28,8 +30,8 @@ We originally battle tested this on Fish Bucket, and it is a pretty fun way to p
 
 Learning when to drunk duplicates and when to leave them sober is one of the hardest parts about running Kazopolis.
 
-In general, I usually avoid drunking the evil team if I can avoid it. There are some roles where it is necessary (mez) but drunking a minion is ultimately far more damaging than drunking a townsfolk. As a ST, you may wish to consider using an optional rule to let the evil team in particular repick instead of making them drunk.
+In general, I usually avoid drunking the evil team if I can avoid it. There are some roles where it is necessary (Mez) but drunking a minion is ultimately far more damaging than drunking a townsfolk. As a ST, you may wish to consider using an optional rule to let the evil team in particular repick instead of making them drunk.
 
-Outsiders are very fun on Kazopolis, as many of them get much worse when duplicates are introduced. Having 4 Zealots will give the evil team a lot of voting power. Having 4 Recluses will shread the good team's information. I generally recommend using an "All or Nothing" approach with drunking outsiders, either leaving all of them sober or drunking all the copies.
+Outsiders are very fun on Kazopolis, as many of them get much worse when duplicates are introduced. Having 4 Zealots will give the evil team a lot of voting power. Having 4 Recluses will shred the good team's information. I generally recommend using an "All or Nothing" approach with drunking outsiders, either leaving all of them sober or drunking all the copies.
 
 When deciding whether or not to drunk a townsfolk, the main question to consider is "will evil be able to play around them being sober?". Some roles are way to strong when they are all sober, such as the Virgin or Courtier, and drunking all of them (or all but 1) is frequently the way to go. Some roles are perfectly fine to leave everyone sober, I don't usually drunk duplicate Stewards or Washerwomen unless I think it's going to close evils play space too much.

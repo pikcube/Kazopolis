@@ -1,12 +1,12 @@
 # Optional Gardening Rules
 
-Kazopolis is written to make setup as fast and seamless as possible, but this does require an arbitrary outsider count and eliminates certain characters that complicate setup. These optional gardening rules are an option for groups that are okay with slowing down setup for a particular benefit. These rules can be ran simotaniously if desired.
+Kazopolis is written to make setup as fast and seamless as possible, but this does require an arbitrary outsider count and eliminates certain characters that complicate setup. These optional gardening rules are an option for groups that are okay with slowing down setup for a particular benefit. These rules can be ran simultaneously if desired.
 
 # Garden the Minions
 
-When gardening minions, the storyteller will not put any minions in the bag, and choose which townsfolks become minions after the demon picks their role. This lets the storyteller modify who they choose (and how many they choose) based on their pick. 
+When gardening minions, the storyteller will not put any minions in the bag, and choose which townsfolk become minions after the demon picks their role. This lets the storyteller modify who they choose (and how many they choose) based on their pick. 
 
-Under this rule, the following characters work differently than above.
+Under this rule, the following characters work differently than under the base rules.
 
 ## Kazali: If the demon chooses Kazali, they also choose which players are minions.
 
@@ -28,7 +28,7 @@ This is an optional rule for Storytellers who are prepared to run an Atheist gam
 
 When gardening the outsiders, the storyteller will not put any outsiders in the bag, and choose which townsfolks become outsiders after the minions pick their roles. This allows for the outsider count to be determined by setup modification instead of being arbitrary.
 
-Under this rule, the following characters work differently than above. Most of these are self explanatory.
+Under this rule, the following characters work differently than under the base rules. Most of these are self explanatory.
 
 ## Baron: If players select the Baron, there will be +2 outsiders. If the Baron is made drunk by Kazopolis, this doesn't happen.
 
