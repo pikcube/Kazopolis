@@ -92,9 +92,9 @@ I've considered a bunch of different ways to deal with multiple Ogres potentiall
 
 If you aren't a fan of new Alchemist, than you can always fall back on either "if the Ogre is made drunk due to duplicates, they must select a different outsider" or "if the Ogre is made drunk, they learn this and lose their ability."
 
-# Ability Modifications That Add Hard Cap
+# Ability Modifications That Add a Hard Limit
 
-Giving an ability a "hard cap" means that the restriction on the ability is applied globally instead of locally. The Fang Gu is an existing example of this, the phrasing of "the first outsider this kills" instead of "the first outsider you kill" gives the Fang Gu's jump a "hard once per game", stopping the ability from triggering on every outsider.
+Giving an ability a "Hard Limit" means that the restriction on the ability is applied globally instead of locally. The Fang Gu is an existing example of this, the phrasing of "the first outsider this kills" instead of "the first outsider you kill" gives the Fang Gu's jump a "hard once per game", stopping the ability from triggering on every outsider.
 
 ## Damsel: Minions learn how many damsels are in play, but may only guess who the Damsel is once.
 
