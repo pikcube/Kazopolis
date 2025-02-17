@@ -69,7 +69,7 @@ Just drunk them, that's the whole reason the drunk duplicates rule exists.
 
 ## Banshee
 
-Banshee + drunk duplicates + multiple ways to die at night might be a bad combination, but I'm not sure it rises to the level of needing a global ruling. Plus, giving Townsfolks and outsiders any meta info about in play good roles is much more dangerous than giving the evil team info about in play evil roles.
+Banshee + drunk duplicates + multiple ways to die at night might be a bad combination, but I'm not sure it rises to the level of needing a global ruling. Plus, giving Townsfolks and Outsiders any meta info about in play good roles is much more dangerous than giving the evil team info about in play evil roles.
 
 ## Minstrel
 
@@ -107,11 +107,11 @@ This would need to be a hard "different from last night" if you kept them all so
 
 ## Cult Leader
 
-Drunk Cult leader isn't the end of the world, and might even figure it out when they somehow never get an evil ping.
+Drunk Cult Leader isn't the end of the world, and might even figure it out when they somehow never get an evil ping.
 
 ## Snake Charmer
 
-This one doesn't need a jinx, but check with your group about whether they are okay with multiple sober snake charmers.
+This one doesn't need a jinx, but check with your group about whether they are okay with multiple sober Snake Charmers.
 
 ## Preacher
 
