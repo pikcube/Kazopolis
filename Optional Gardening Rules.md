@@ -34,6 +34,8 @@ Under this rule, the following characters work differently than under the base r
 
 ## Godfather: If players select the Godfather, there will be either -1 or +1 outsider. If the Godfather is made drunk, this does not happen.
 
+## Xaan: If players select the Xaan, there may be any number of outsiders. If all Xaans are made drunk, this doesn't happen.
+
 ## Fang Gu: If a player selects the Fang Gu, there will be +1 outsider.
 
 ## Vigor Mortis: If a player selects the Vigor Mortis, there will be -1 outsider.

@@ -30,7 +30,7 @@ We originally battle tested this on Fish Bucket, and it is a pretty fun way to p
 
 Learning when to drunk duplicates and when to leave them sober is one of the hardest parts about running Kazopolis.
 
-In general, I usually avoid drunking the evil team if I can avoid it. There are some roles where it is necessary (Mez) but drunking a minion is ultimately far more damaging than drunking a townsfolk. As a ST, you may wish to consider using an optional rule to let the evil team in particular repick instead of making them drunk.
+In general, I usually avoid drunking the evil team if I can avoid it. There are some roles where it is necessary (Poisoner) but drunking a minion is ultimately far more damaging than drunking a townsfolk. As a ST, you may wish to consider using an optional rule to let the evil team in particular repick instead of making them drunk.
 
 Outsiders are very fun on Kazopolis, as many of them get much worse when duplicates are introduced. Having 4 Zealots will give the evil team a lot of voting power. Having 4 Recluses will shred the good team's information. I generally recommend using an "All or Nothing" approach with drunking outsiders, either leaving all of them sober or drunking all the copies.
 
