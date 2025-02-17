@@ -108,7 +108,7 @@ Bad Moon Rising has this really important feature built in where an evil player 
 
 When running multiple DAs you can either prompt them to pick again if their target was chosen yesterday by any DA, or you can quickly show them who isn't a valid choice if that seems easier. You can also have all DAs wake and choose together if you think it won't throw off the balance of the script too much.
 
-On a side note, a DA who is drunk due to duplicates (or any other reason) is still a DA and as written is going to limit what other DAs can pick. Hopefully the hard limit means this won't be necessary, but If you are going to drunk a DA (and aren't letting your minions repick), then I would run them with the rule that "if the DA is made drunk due to duplicates they learn this and lose their ability".
+On a side note, a DA who is drunk due to duplicates (or any other reason) is still a DA and as written is going to limit what other DAs can pick. Hopefully the hard limit means this won't be necessary, but if you are going to drunk a DA (and aren't letting your minions repick), then I would run them with the rule that "if the DA is made drunk due to duplicates they learn this and lose their ability".
 
 ## Mezepheles: A player may only change alignment due to a Mezepheles once per game.
 
