@@ -26,7 +26,7 @@ Sort of like Vizier, I think evil is probably the one who gets screwed over by h
 
 Wizard is a character that I considered adding a "sanity" jinx for, where the Storyteller can prompt them to choose a different character if they aren't emotionally ready to try and run a 3 Wizard game. For the most part I'm trying to avoid jinxes purely for ST sanity when that can be solved by The optional rule about letting minions repick would solve this problem too though.
 
-Besides, the you agreed to run a Kazopolis game on a script with *Wizard* on it. What did you think would happen?
+Besides, you agreed to run a Kazopolis game on a script with *Wizard* on it. What did you think would happen?
 
 ## Pit-Hag
 
