@@ -28,10 +28,6 @@ Wizard is a character that I considered adding a "sanity" jinx for, where the St
 
 Besides, you agreed to run a Kazopolis game on a script with *Wizard* on it. What did you think would happen?
 
-## Pit-Hag
-
-God I have no clue whether or not a Pit-Hag should be allowed to make duplicates. On one hand, having enough physical tokens is already a nightmare in Kazopolis, so having a Pithag make duplicates is fine logistically and could be fun. On the other hand, I don't know if I want to worry about the Pit-Hag turning every townsfolk on Sects and Violets into a Mutant. Plus the Kaopolis dunkenness is supposed to be static so I would need to rule on if that changes with a Pit-Hag or not.
-
 ## Widow
 
 It might be worth clarifying whether or not the Widow ping is a hard once or not. Right now I think one ping per Widow is probably a good idea.
