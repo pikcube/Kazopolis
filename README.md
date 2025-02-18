@@ -2,13 +2,13 @@
 
 ### "This makes Fish Bucket playable" - Play Tester
 
-Kazopolis is a custom project that has been in development for a few months at this point, and is a collaboration between me, my partner, and our local clocktower group to answer a question nobody asked, "what if everyone just picked their role?".
+Kazopolis is a custom project that has been in development for a few months at this point, and is a collaboration between me, my partner, and our local Clocktower group to answer a question nobody asked, "what if everyone just picked their role?".
 
 The end result is this, what was originally a fable but at this point could be described as a different format entirely with how you rethink your strategy.
 
 The exact rule is "On night 1, each player may choose to become any character of the same type. Duplicates might be drunk. [? Outsiders]".
 
-This means that everyone can pick the role thay think would be most fun to play as, but they must consider what everyone else might pick too. If everyone picks the same role, the town will have no way to figure out who is drunk and who is sober.
+This means that everyone can pick the role they think would be most fun to play as, but they must consider what everyone else might pick too. If everyone picks the same role, the town will have no way to figure out who is drunk and who is sober.
 
 Evil players normally try to bluff out of play roles, but bluffing in play roles is now also extremely powerful. Since duplicates are possible, double claims imply that players might secretly be drunk, which can make the good team distrust otherwise helpful information.
 
@@ -16,7 +16,9 @@ Evil players normally try to bluff out of play roles, but bluffing in play roles
 
 The way to run Kazopolis is very simple. Pass out a bag of tokens with any number of outsiders (I'd personally stick to the base amount plus or minus 1). During the first night, wake each player (before doing any other night interactions) and let them point to any character on script. They are that character now, swap it out in the grimoire.
 
-After everyone has picked, look at the grimoire. If you are happy with the state of the game, you can run it as is. Otherwise, you are free to drunk any player who selected the same token as another in play character. This drunkenness is static and does not change over the course of the game.
+After everyone has picked, look at the grimoire. If you are happy with the state of the game, you can run it as is. Otherwise, you are free to drunk any player who selected the same token as another in play character. This is static drunkenness and will persist even as players swap characters and alignments. 
+
+There is one major exception to this rule though, **the demon cannot be made drunk by Kazopolis. Ever.** If the demon moves and the new demon is marked as "drunk" by Kazopolis, they remain sober as long as they are the demon. The token is not removed from them, and if they ever stop being the demon they will become drunk again.
 
 ## The Nitty Gritty
 
@@ -30,7 +32,7 @@ We originally battle tested this on Fish Bucket, and it is a pretty fun way to p
 
 Learning when to drunk duplicates and when to leave them sober is one of the hardest parts about running Kazopolis.
 
-In general, I usually avoid drunking the evil team if I can avoid it. There are some roles where it is necessary (Poisoner) but drunking a minion is ultimately far more damaging than drunking a townsfolk. As a ST, you may wish to consider using an optional rule to let the evil team in particular repick instead of making them drunk.
+In general, I usually avoid drunking the evil team if I can avoid it. There are some roles where it is necessary (Poisoner) but drunking a minion is ultimately far more damaging than drunking a townsfolk. As a ST, you may wish to consider using an optional rule to let the evil team pick new roles instead of making them drunk.
 
 Outsiders are very fun on Kazopolis, as many of them get much worse when duplicates are introduced. Having 4 Zealots will give the evil team a lot of voting power. Having 4 Recluses will shred the good team's information. I generally recommend using an "All or Nothing" approach with drunking outsiders, either leaving all of them sober or drunking all the copies.
 

@@ -54,6 +54,9 @@ I did have Goon jinxed at one point, but I'm less worried about roles that flip 
 
 At most I would give Goon the same jinx Ogre has.
 
+## Recluse
+
+Yes, but don't.
 
 ## Poppy Grower
 

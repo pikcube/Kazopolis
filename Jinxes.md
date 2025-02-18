@@ -92,6 +92,24 @@ I've considered a bunch of different ways to deal with multiple Ogres potentiall
 
 If you aren't a fan of new Alchemist, than you can always fall back on either "if the Ogre is made drunk due to duplicates, they must select a different outsider" or "if the Ogre is made drunk, they learn this and lose their ability."
 
+## Pit-Hag: If deaths tonight are arbitrary, then which players are drunk due to duplicates might change.
+
+Sects and Violets really is one of the scripts of all time, and Pit-Hag was never going to make it out of something as massive as Kazopolis without a rule change.
+
+I'll address the elephant in the room first, the Pit-Hag is not allowed to create a copy of an in play character. While there are scripts where this is probably fine, the Pit-Hag occasionally missing is a big part of the balance of Sects and Violets, and trying to keep that while allowing for duplicates is *really* messy. I considered something like "the Pit-Hag can't make more of a type of character than is on script" to cap the amount of outsiders, or just "if the Pit-Hag tries to make an in play character, it might fail". I don't like the first one because it makes the Pit-Hag a little too reliable, and I don't like the second because even if it makes the Pit-Hag more flexible, I don't want to put the Storyteller in a position where they have to effectively decide the game with whether or not a character change goes through.
+
+This does mean that the Pit-Hag making a character provides some meta information on Kazopolis, that they are the only instance of that character. This was something the Pit-Hag always did, but on Kazopolis (where duplicates are allowed), this is slightly more potent information.
+
+Regarding the jinx itself, this was written specifically with Sects and Violets in mind. Kazopolis already complicates Sects and Violets by adding a source of untraceable drunkenness to a script where tracing the droison gives really important information about which demon is in play. This is one of the reasons why deaths are arbitrary when a new demon is created, it warns the town that which players are droisoned might be different now. 
+
+The other reason the Pit-Hag causes arbitrary deaths is balancing the game state. Obviously having two living demons is bad, which is why any sane storyteller will kill the former demon when a new demon is made, but the storyteller is also free to kill or protect any other players if the game state needs balancing.
+
+Since the droison is already moving, arbitrary deaths are extremely loud, and the whole reason the Pit-Hag causes arbitrary deaths is to balance the game, it felt natural to also let the storyteller readjust the other big nob they have to balance games of Kazopolis, which players are currently drunk due to duplicates.
+
+When the Pit-Hag makes a new demon, as part of the night of arbitrary deaths, the storyteller is allowed to change which player are or aren't drunk. As before, any players who are unique are sober, and any player who is a duplicate of another in play role may be marked as drunk.
+
+Importantly, while changing which duplicates are drunk isn't required, reevaluating the grimoire is. This means that if any player was Kazopolis drunk, but there duplicate has been removed by another ability (like the Pit-Hag or a Fang Gu jump), then their Kazopolis drunk token is removed and they are no longer drunk.
+
 # Ability Modifications That Add a Hard Limit
 
 Giving an ability a "Hard Limit" means that the restriction on the ability is applied globally instead of locally. The Fang Gu is an existing example of this, the phrasing of "the first outsider this kills" instead of "the first outsider you kill" gives the Fang Gu's jump a "hard once per game", stopping the ability from triggering on every outsider.
@@ -119,6 +137,14 @@ This conveniently also solves the Pit-Hag / Mezepheles infinite evil problem wit
 # Ability Modifications When Made Drunk By Kazopolis
 
 These are the roles that are unchanged in normal play, but do need to work differently with being made drunk because making them drunk is either bad or unhelpful.
+
+## Mayor: Kazopolis cannot drunk the only living Mayor.
+
+So I was originally going to just make it so Kazopolis couldn't drunk a Mayor, since going for a Mayor win only to be informed that evil wins because that was actually the drunk Mayor isn't fun for either team. However, there's this really unfortunate setup on TB with an Imp, a Scarlet Woman or Spy, and 5 Mayors where the evil team cannot win under any circumstances. While not every script is going to be perfect under Kazopolis, I really want base 3 to work as written, and it being possible to make a setup where evil can never win isn't fun or good, so the mayors need to be drunk occasionally.
+
+For something like the Mayor, an ability that gets no actionable feedback on if it is sober or not until it is too late, whether or not they are Kazopolis drunk needs to be deterministic so the good team can in theory solve for if the mayor is drunk or not.
+
+I went with this option because it is flexible. The storyteller can choose to leave every mayor sober if they wish, or they can drunk all of them until the town kills all but the final mayor. But if there is only one living mayor, they can be certain they aren't going to lose due to another mayor being in play.
 
 ## Heretic: Kazopolis cannot drunk a Heretic.
 
